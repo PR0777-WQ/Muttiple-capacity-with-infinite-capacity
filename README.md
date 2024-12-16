@@ -11,19 +11,20 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![image](https://user-images.githubusercontent.com/103921593/203238035-1c8109bc-cbf2-4c77-baea-c5b682a752ef.png)
 
 ## Procedure :
-
-![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
-
-
-
+![203238265-176740b0-eae2-4772-90be-5449869ac9b0](https://github.com/user-attachments/assets/d6a81c8f-248e-4194-8fb0-7dc7eeb29f5c)
 
 ## Experiment:
 
+![239796810-1d35f4d1-3104-44f4-8c5c-269d611eaee2](https://github.com/user-attachments/assets/7e0cd4c0-ef9c-4820-81ae-cd0c0811494a)
+![239796837-13d30585-0c48-4b29-be60-57aa39e77fbf](https://github.com/user-attachments/assets/f8645ba3-504f-48a4-8151-f61aeb630902)
+
 
 ## Program
-
+Developed By :G.Nitin Karthikeyan
+Register.No :24010473
 
 ## Output :
+![239796920-d961ec39-3eb9-44d5-875b-375f5694d5df](https://github.com/user-attachments/assets/2f175501-85bc-48a2-8a7a-a4b8e7f63eca)
 
 ## Result : 
-
+Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
